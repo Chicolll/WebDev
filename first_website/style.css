@@ -1,0 +1,10 @@
+/* style sheets do not require setup. You can just start typing CSS */
+
+body{text-align:center}
+body{background-color: pink}
+
+
+h1{
+  color : darkorange;
+  font-family: "helvetica";
+}
